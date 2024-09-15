@@ -5,7 +5,7 @@ description: "News Delivered Swiftly, Insights Delivered Clearly."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: "https://titodellucci.github.io" 
-baseurl: /
+#baseurl: /
 google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
