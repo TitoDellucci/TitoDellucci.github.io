@@ -1,7 +1,7 @@
 # Site
-name: "SwiftNews"
-title: "SwiftNews"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Swift News"
+title: "Swift News"
+description: "News Delivered Swiftly, Insights Delivered Clearly.""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: "https://TitoDellucci.github.io" # the base hostname & protocol for your site, e.g. https://example.com
